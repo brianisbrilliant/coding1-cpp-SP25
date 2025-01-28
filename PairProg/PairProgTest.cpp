@@ -6,6 +6,29 @@
 int main()
 {
     std::cout << "Hello World!\n";
+
+    // #3 create a function that accepts two integers and returns their sum.
+    // if that's too easy, overload it to also accept floats.
+
+    // #2 same thing
+
+    // #1 get the program to greet the two of you by name.
+    // then run it.
+
+    // #1 have the computer tell you two more things, on new lines.
+    // then run it.
+
+ // -------------------
+    // #3 create a function that accepts a string and prints the string to the console with
+        //spaces between each letter. example: "word" becomes "w o r d"
+        // THEN make the program ask the user for the string.
+
+    // #2 same thing
+
+    // #1 create some variables, (ensure the other person has a chance to drive)
+        // ask the user for input,
+        // create a story.
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
